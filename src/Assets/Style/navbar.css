@@ -1,0 +1,10 @@
+a{
+    color:white;
+    margin:20px;
+    text-decoration-line: none;
+    margin-top: -40px;
+}
+a:hover{
+    text-decoration-line: none;
+    color:white;
+}

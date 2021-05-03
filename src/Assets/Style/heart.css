@@ -1,0 +1,75 @@
+.heartForm{
+    float: left;
+    width: 100%; 
+    margin-left: 10px;
+    margin-top: 20px;
+    height: auto;
+}
+.heartForm1{
+    float: left;
+    width: 45%; 
+    margin-left: 20px;
+    margin-top: 20px;
+    height: auto;
+}
+.submitbtn{
+    margin: 25px;
+}
+.predh1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Sansita Swashed;
+    white-space: nowrap;
+}
+.predh2{
+    font-size: 26px;
+    font-weight: bold;
+    font-family: Sansita Swashed;
+    font-style: italic;
+}
+.graph{
+    margin-left: 300px;
+    margin-top: 400px;
+    width: 800px;
+}
+.prediction{
+    margin-top: 350px;
+    margin-left: -1110px;
+}
+@media only screen and (max-width: 600px) {
+    .prediction{
+        margin-top: 600px;
+        margin-left: -100px;
+        font-size: 8px;
+    }
+    .graph{
+        margin-top: 600px;
+        margin-left: 0px;
+        width: 300px;
+    }
+    .heartForm{
+        float: left;
+        width: 100%; 
+        margin-left: 2px;
+        margin-top: -100px;
+    }
+    .heartForm1{
+        float: left;
+        width: 100%; 
+        margin-left: 2px;
+        height: 500px;
+        font-size: 57px;
+    }
+    .submitbtn{
+        margin-left: 10px;
+    }
+    .predh1{
+        text-align: center;
+        font-size: 30px;
+        font-weight: bold;
+        font-family: Sansita Swashed;
+       
+    }
+    
+}
